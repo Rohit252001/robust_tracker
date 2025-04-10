@@ -6,7 +6,7 @@ setup(
     description="A robust face tracking model using Kalman filtering and IoU",
     author="Rohit Kumar Nayak",
     author_email="rohit.nayak@oditeksolutions.com",
-    url="https://github.com/yourusername/robust_tracker",
+    url="https://github.com/Rohit252001/robust_tracker",
     packages=find_packages(),
     install_requires=[
         "numpy>=1.21.0",
